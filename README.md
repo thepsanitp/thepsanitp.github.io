@@ -3,3 +3,7 @@ Full name(Eng) : Paskorn Thepsanit
 Full name(TH) : ภาสกร เทพสนิท  
 Nickname : โชกุน  
 Geust : Maykin  
+
+Quality Attributes
+ChatGpt :  
+Google Bard :  
