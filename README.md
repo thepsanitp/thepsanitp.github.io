@@ -4,6 +4,6 @@ Full name(TH) : ภาสกร เทพสนิท
 Nickname : โชกุน  
 Geust : Maykin  
 -
-Quality Attributes
+Quality Attributes  
 ChatGpt :  
 Google Bard :  
